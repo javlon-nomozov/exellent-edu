@@ -1,2 +1,2 @@
 # exellent-edu
-website for Exellent academy with ExpressJs, SQLite, 
+website for Exellent academy with ExpressJs, SQLite, EJS
